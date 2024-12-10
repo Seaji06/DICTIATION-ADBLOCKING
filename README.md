@@ -33,7 +33,7 @@ This tool automates tasks on dictation.io, adding advanced speech-to-text featur
 ## Website Compatibility
 
 This automation tool is exclusively compatible with:
-- ✅ Works with dictation.io.
+- ✅ Works with [dictation.io](https://dictation.io).
 - ❌ Does not work with other speech-to-text websites or tools.
 
 **Note**: This repository is maintained under a private agreement and is specifically designed for dictation.io integration only.
