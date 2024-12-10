@@ -2,25 +2,25 @@
 
 ⚠️ **PRIVATE REPOSITORY - CONFIDENTIAL** ⚠️
 
-This repository contains proprietary code developed under a confidential agreement with the client, specifically for use with [dictation.io](https://dictation.io). All rights reserved. Unauthorized access, distribution, or use is strictly prohibited.
+This repository contains private code created specifically for dictation.io under a client agreement. It is confidential and cannot be shared or used without permission.
 
 ## Overview
 
-A specialized automation tool exclusively designed for dictation.io that provides enhanced speech-to-text capabilities with ad-blocking features. This tool is developed specifically for dictation.io platform usage as defined in the client agreement.
+This tool automates tasks on dictation.io, adding advanced speech-to-text features and ad-blocking. It is tailored for use only with dictation.io as per the client’s instructions.
 
 ## Important Notice
 
-- This code is designed to work **ONLY** with dictation.io
-- Any attempt to modify or use this code with other websites may result in unexpected behavior
-- Usage is restricted to authorized parties as per the client agreement
+- The tool works only with dictation.io.
+- Using it with other websites may cause issues.
+- Only authorized users under the client agreement can use this tool.
 
 ## Features
 
-- Automated browser initialization for dictation.io
-- Custom ad-blocking specific to dictation.io interface
-- Dictation.io cookie consent handling
-- Cross-platform support (Windows & macOS)
-- Threading support for non-blocking execution
+- Automatically opens dictation.io in a browser.
+- Blocks ads on dictation.io.
+- Handles cookie prompts on dictation.io.
+- Works on both Windows and macOS.
+- Supports threading for smooth operation.
 
 ## Technical Requirements
 
@@ -28,13 +28,12 @@ A specialized automation tool exclusively designed for dictation.io that provide
 - Selenium WebDriver
 - Chrome Browser
 - ChromeDriver (compatible with your Chrome version)
-- Active internet connection to access dictation.io
+- Internet connection to access dictation.io.
 
 ## Website Compatibility
 
 This automation tool is exclusively compatible with:
-- ✅ [dictation.io](https://dictation.io)
-- ❌ Not designed for any other speech-to-text services
-- ❌ Not compatible with other dictation websites
+- ✅ Works with dictation.io.
+- ❌ Does not work with other speech-to-text websites or tools.
 
 **Note**: This repository is maintained under a private agreement and is specifically designed for dictation.io integration only.
