@@ -2,7 +2,7 @@
 
 ⚠️ **PRIVATE REPOSITORY - CONFIDENTIAL** ⚠️
 
-This repository contains private code created specifically for dictation.io under a client agreement. It is confidential and cannot be shared or used without permission.
+This repository contains private code created specifically for [dictation.io](https://dictation.io) under a client agreement. It is confidential and cannot be shared or used without permission.
 
 ## Overview
 
